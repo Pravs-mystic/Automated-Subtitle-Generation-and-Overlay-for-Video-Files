@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+opencv-python = "*"
+matplotlib = "*"
+ffmpeg = "*"
+pandas = "*"
+numpy = "*"
+jupyterlab = "*"
+tqdm = "*"
+ffmpeg-python = "*"
+moviepy = "*"
+tensorflow = "*"
+transformers = "*"
+torch = "*"
+torchvision = "*"
+soundfile = "*"
+torchaudio = "*"
+faster-whisper = "*"
+pip-chill = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
